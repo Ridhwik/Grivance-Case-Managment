@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Major Case Information" section_id="4e0530b947581310273a565a516d43db" sys_domain="global" table="x_617936_grievan_0_grievance_case" version="3" view="workspace">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>major_case_state</element>
+            <position>0</position>
+            <sys_created_by>jenish.jain</sys_created_by>
+            <sys_created_on>2026-11-02 10:00:12</sys_created_on>
+            <sys_id>420530b947581310273a565a516d43ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Major Case Information" display_value="Major Case Information" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="ca6da749f0b3031001ffe61a9d6c48a4">4e0530b947581310273a565a516d43db</sys_ui_section>
+            <sys_updated_by>jenish.jain</sys_updated_by>
+            <sys_updated_on>2026-11-02 10:00:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>jenish.jain</sys_created_by>
+            <sys_created_on>2026-11-02 10:00:12</sys_created_on>
+            <sys_id>020530b947581310273a565a516d43ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Major Case Information" display_value="Major Case Information" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="ca6da749f0b3031001ffe61a9d6c48a4">4e0530b947581310273a565a516d43db</sys_ui_section>
+            <sys_updated_by>jenish.jain</sys_updated_by>
+            <sys_updated_on>2026-11-02 10:00:12</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>recipient_list</element>
+            <position>2</position>
+            <sys_created_by>jenish.jain</sys_created_by>
+            <sys_created_on>2026-11-02 10:00:12</sys_created_on>
+            <sys_id>0e0530b947581310273a565a516d43ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Major Case Information" display_value="Major Case Information" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="ca6da749f0b3031001ffe61a9d6c48a4">4e0530b947581310273a565a516d43db</sys_ui_section>
+            <sys_updated_by>jenish.jain</sys_updated_by>
+            <sys_updated_on>2026-11-02 10:00:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>3</position>
+            <sys_created_by>jenish.jain</sys_created_by>
+            <sys_created_on>2026-11-02 10:00:12</sys_created_on>
+            <sys_id>ca0530b947581310273a565a516d43ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Major Case Information" display_value="Major Case Information" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="ca6da749f0b3031001ffe61a9d6c48a4">4e0530b947581310273a565a516d43db</sys_ui_section>
+            <sys_updated_by>jenish.jain</sys_updated_by>
+            <sys_updated_on>2026-11-02 10:00:12</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>business_impact</element>
+            <position>4</position>
+            <sys_created_by>jenish.jain</sys_created_by>
+            <sys_created_on>2026-11-02 10:00:12</sys_created_on>
+            <sys_id>c60530b947581310273a565a516d43ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Major Case Information" display_value="Major Case Information" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="ca6da749f0b3031001ffe61a9d6c48a4">4e0530b947581310273a565a516d43db</sys_ui_section>
+            <sys_updated_by>jenish.jain</sys_updated_by>
+            <sys_updated_on>2026-11-02 10:00:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>probable_cause</element>
+            <position>5</position>
+            <sys_created_by>jenish.jain</sys_created_by>
+            <sys_created_on>2026-11-02 10:00:12</sys_created_on>
+            <sys_id>860530b947581310273a565a516d43eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Major Case Information" display_value="Major Case Information" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="ca6da749f0b3031001ffe61a9d6c48a4">4e0530b947581310273a565a516d43db</sys_ui_section>
+            <sys_updated_by>jenish.jain</sys_updated_by>
+            <sys_updated_on>2026-11-02 10:00:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Major Case Information</caption>
+            <header>false</header>
+            <name>x_617936_grievan_0_grievance_case</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>jenish.jain</sys_created_by>
+            <sys_created_on>2026-11-02 10:00:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4e0530b947581310273a565a516d43db</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_617936_grievan_0_grievance_case</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Grievances Case Management" source="x_617936_grievan_0">f52478b547581310273a565a516d43b5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Grievances Case Management">f52478b547581310273a565a516d43b5</sys_scope>
+            <sys_update_name>sys_ui_section_4e0530b947581310273a565a516d43db</sys_update_name>
+            <sys_updated_by>jenish.jain</sys_updated_by>
+            <sys_updated_on>2026-11-02 10:00:12</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace" name="workspace">ca6da749f0b3031001ffe61a9d6c48a4</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

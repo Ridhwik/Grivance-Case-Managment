@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="81057c7947581310273a565a516d4397" extends="sn_customerservice_case" label="Grievance Case" max_length="40" name="x_617936_grievan_0_grievance_case" type="collection">
+        <element label="Escalated" max_length="40" name="escalated" type="boolean"/>
+        <element label="Related record" max_length="255" name="related_record" type="document_id"/>
+    </element>
+</database>

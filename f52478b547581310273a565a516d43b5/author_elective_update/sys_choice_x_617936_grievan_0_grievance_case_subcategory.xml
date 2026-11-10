@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="subcategory" table="x_617936_grievan_0_grievance_case" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>subcategory</element>
+            <name>x_617936_grievan_0_grievance_case</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>jenish.jain</sys_created_by>
+            <sys_created_on>2026-11-06 10:41:16</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>subcategory</sys_name>
+            <sys_package display_value="Grievances Case Management" source="x_617936_grievan_0">f52478b547581310273a565a516d43b5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Grievances Case Management">f52478b547581310273a565a516d43b5</sys_scope>
+            <sys_update_name>sys_choice_x_617936_grievan_0_grievance_case_subcategory</sys_update_name>
+            <sys_updated_by>jenish.jain</sys_updated_by>
+            <sys_updated_on>2026-11-06 10:41:16</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>10</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Washroom / Restroom Unclean</label>
+            <language>en</language>
+            <name>x_617936_grievan_0_grievance_case</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>jenish.jain</sys_created_by>
+            <sys_created_on>2026-11-06 10:41:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jenish.jain</sys_updated_by>
+            <sys_updated_on>2026-11-06 10:41:16</sys_updated_on>
+            <value>101</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>11</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Meal Delivery Delayed / Cold Food</label>
+            <language>en</language>
+            <name>x_617936_grievan_0_grievance_case</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>jenish.jain</sys_created_by>
+            <sys_created_on>2026-11-06 10:43:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jenish.jain</sys_updated_by>
+            <sys_updated_on>2026-11-06 10:43:18</sys_updated_on>
+            <value>111</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>12</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Doctor Communication / Conduct</label>
+            <language>en</language>
+            <name>x_617936_grievan_0_grievance_case</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>jenish.jain</sys_created_by>
+            <sys_created_on>2026-11-06 10:44:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jenish.jain</sys_updated_by>
+            <sys_updated_on>2026-11-06 10:44:36</sys_updated_on>
+            <value>121</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>13</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Air Conditioning / Ventilation Failure</label>
+            <language>en</language>
+            <name>x_617936_grievan_0_grievance_case</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>jenish.jain</sys_created_by>
+            <sys_created_on>2026-11-06 10:47:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jenish.jain</sys_updated_by>
+            <sys_updated_on>2026-11-06 10:47:35</sys_updated_on>
+            <value>131</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>14</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Waiting Time / Queue Delay</label>
+            <language>en</language>
+            <name>x_617936_grievan_0_grievance_case</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>jenish.jain</sys_created_by>
+            <sys_created_on>2026-11-06 10:50:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jenish.jain</sys_updated_by>
+            <sys_updated_on>2026-11-06 10:50:18</sys_updated_on>
+            <value>141</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>10</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Room / Ward Cleaning Delayed</label>
+            <language>en</language>
+            <name>x_617936_grievan_0_grievance_case</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>jenish.jain</sys_created_by>
+            <sys_created_on>2026-11-06 10:41:27</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jenish.jain</sys_updated_by>
+            <sys_updated_on>2026-11-06 10:41:27</sys_updated_on>
+            <value>102</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>11</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Incorrect Diet Served</label>
+            <language>en</language>
+            <name>x_617936_grievan_0_grievance_case</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>jenish.jain</sys_created_by>
+            <sys_created_on>2026-11-06 10:43:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jenish.jain</sys_updated_by>
+            <sys_updated_on>2026-11-06 10:43:30</sys_updated_on>
+            <value>112</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>12</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Nursing Staff Delay / Behavior</label>
+            <language>en</language>
+            <name>x_617936_grievan_0_grievance_case</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>jenish.jain</sys_created_by>
+            <sys_created_on>2026-11-06 10:45:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jenish.jain</sys_updated_by>
+            <sys_updated_on>2026-11-06 10:45:41</sys_updated_on>
+            <value>122</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>13</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Plumbing / Water Supply / Hot Water</label>
+            <language>en</language>
+            <name>x_617936_grievan_0_grievance_case</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>jenish.jain</sys_created_by>
+            <sys_created_on>2026-11-06 10:48:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jenish.jain</sys_updated_by>
+            <sys_updated_on>2026-11-06 10:48:18</sys_updated_on>
+            <value>132</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>14</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Appointment / Scheduling Issue</label>
+            <language>en</language>
+            <name>x_617936_grievan_0_grievance_case</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>jenish.jain</sys_created_by>
+            <sys_created_on>2026-11-06 10:50:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jenish.jain</sys_updated_by>
+            <sys_updated_on>2026-11-06 10:50:29</sys_updated_on>
+            <value>142</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>10</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Linen / Bedding Not Changed</label>
+            <language>en</language>
+            <name>x_617936_grievan_0_grievance_case</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>jenish.jain</sys_created_by>
+            <sys_created_on>2026-11-06 10:41:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jenish.jain</sys_updated_by>
+            <sys_updated_on>2026-11-06 10:41:43</sys_updated_on>
+            <value>103</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>11</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Food Quality / Taste Issue</label>
+            <language>en</language>
+            <name>x_617936_grievan_0_grievance_case</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>jenish.jain</sys_created_by>
+            <sys_created_on>2026-11-06 10:43:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jenish.jain</sys_updated_by>
+            <sys_updated_on>2026-11-06 10:43:51</sys_updated_on>
+            <value>113</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>12</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Billing / Administrative Staff Misconduct</label>
+            <language>en</language>
+            <name>x_617936_grievan_0_grievance_case</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>jenish.jain</sys_created_by>
+            <sys_created_on>2026-11-06 10:46:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jenish.jain</sys_updated_by>
+            <sys_updated_on>2026-11-06 10:46:12</sys_updated_on>
+            <value>123</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>13</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Electrical / TV / Nurse Call Bell</label>
+            <language>en</language>
+            <name>x_617936_grievan_0_grievance_case</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>jenish.jain</sys_created_by>
+            <sys_created_on>2026-11-06 10:49:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jenish.jain</sys_updated_by>
+            <sys_updated_on>2026-11-06 10:49:04</sys_updated_on>
+            <value>133</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>14</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Laboratory / Diagnostic Report Delay</label>
+            <language>en</language>
+            <name>x_617936_grievan_0_grievance_case</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>jenish.jain</sys_created_by>
+            <sys_created_on>2026-11-06 10:50:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jenish.jain</sys_updated_by>
+            <sys_updated_on>2026-11-06 10:50:40</sys_updated_on>
+            <value>143</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>10</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Bio-waste / Garbage Overflow</label>
+            <language>en</language>
+            <name>x_617936_grievan_0_grievance_case</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>jenish.jain</sys_created_by>
+            <sys_created_on>2026-11-06 10:42:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jenish.jain</sys_updated_by>
+            <sys_updated_on>2026-11-06 10:42:11</sys_updated_on>
+            <value>104</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>11</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cafeteria / Canteen Service Issue</label>
+            <language>en</language>
+            <name>x_617936_grievan_0_grievance_case</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>jenish.jain</sys_created_by>
+            <sys_created_on>2026-11-06 10:44:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jenish.jain</sys_updated_by>
+            <sys_updated_on>2026-11-06 10:44:13</sys_updated_on>
+            <value>114</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>12</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Security / Attendant Behavior</label>
+            <language>en</language>
+            <name>x_617936_grievan_0_grievance_case</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>jenish.jain</sys_created_by>
+            <sys_created_on>2026-11-06 10:46:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jenish.jain</sys_updated_by>
+            <sys_updated_on>2026-11-06 10:46:36</sys_updated_on>
+            <value>124</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>13</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Lift / Elevator Out of Order</label>
+            <language>en</language>
+            <name>x_617936_grievan_0_grievance_case</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>jenish.jain</sys_created_by>
+            <sys_created_on>2026-11-06 10:49:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jenish.jain</sys_updated_by>
+            <sys_updated_on>2026-11-06 10:49:38</sys_updated_on>
+            <value>134</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>14</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Billing &amp; Insurance / TPA Query</label>
+            <language>en</language>
+            <name>x_617936_grievan_0_grievance_case</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>jenish.jain</sys_created_by>
+            <sys_created_on>2026-11-06 10:51:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jenish.jain</sys_updated_by>
+            <sys_updated_on>2026-11-06 10:51:07</sys_updated_on>
+            <value>144</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>10</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sanitizer / Soap Empty</label>
+            <language>en</language>
+            <name>x_617936_grievan_0_grievance_case</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>jenish.jain</sys_created_by>
+            <sys_created_on>2026-11-06 10:42:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jenish.jain</sys_updated_by>
+            <sys_updated_on>2026-11-06 10:42:57</sys_updated_on>
+            <value>105</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>12</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Lack of Empathy / Inadequate Explanation</label>
+            <language>en</language>
+            <name>x_617936_grievan_0_grievance_case</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>jenish.jain</sys_created_by>
+            <sys_created_on>2026-11-06 10:47:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jenish.jain</sys_updated_by>
+            <sys_updated_on>2026-11-06 10:47:05</sys_updated_on>
+            <value>125</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>13</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Parking / Signage / Access Blocked</label>
+            <language>en</language>
+            <name>x_617936_grievan_0_grievance_case</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>jenish.jain</sys_created_by>
+            <sys_created_on>2026-11-06 10:50:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jenish.jain</sys_updated_by>
+            <sys_updated_on>2026-11-06 10:50:04</sys_updated_on>
+            <value>135</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>14</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Clinical Care / Medication Administration</label>
+            <language>en</language>
+            <name>x_617936_grievan_0_grievance_case</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>jenish.jain</sys_created_by>
+            <sys_created_on>2026-11-06 10:51:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jenish.jain</sys_updated_by>
+            <sys_updated_on>2026-11-06 10:51:18</sys_updated_on>
+            <value>145</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>14</dependent_value>
+            <element>subcategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other / General Feedback</label>
+            <language>en</language>
+            <name>x_617936_grievan_0_grievance_case</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>jenish.jain</sys_created_by>
+            <sys_created_on>2026-11-06 10:51:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>jenish.jain</sys_updated_by>
+            <sys_updated_on>2026-11-06 10:51:29</sys_updated_on>
+            <value>146</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
