@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>true</cleared>
+        <disabled>ignore</disabled>
+        <field>appointment</field>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>jenish.jain</sys_created_by>
+        <sys_created_on>2026-11-18 18:15:48</sys_created_on>
+        <sys_id>b9ef340747e41390273a565a516d4347</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>appointment</sys_name>
+        <sys_package display_value="Grievances Case Management" source="x_617936_grievan_0">f52478b547581310273a565a516d43b5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Grievances Case Management">f52478b547581310273a565a516d43b5</sys_scope>
+        <sys_update_name>sys_ui_policy_action_b9ef340747e41390273a565a516d4347</sys_update_name>
+        <sys_updated_by>jenish.jain</sys_updated_by>
+        <sys_updated_on>2026-11-18 18:19:34</sys_updated_on>
+        <table/>
+        <ui_policy/>
+        <value/>
+        <value_action>ignore</value_action>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+    <sys_translated_text action="DELETE" query="documentkey=b9ef340747e41390273a565a516d4347"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Grievances Case Management">f52478b547581310273a565a516d43b5</application>
+        <file_path/>
+        <instance_id>5ada7edb93d06e50d9f6ddd548373c9d</instance_id>
+        <instance_name>dev304851</instance_name>
+        <name>sys_ui_policy_action_b9ef340747e41390273a565a516d4347</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>true</cleared><disabled>ignore</disabled><field>appointment</field><field_message/><field_message_type>none</field_message_type><mandatory>ignore</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>jenish.jain</sys_created_by><sys_created_on>2026-11-18 18:15:48</sys_created_on><sys_id>b9ef340747e41390273a565a516d4347</sys_id><sys_mod_count>1</sys_mod_count><sys_name>appointment</sys_name><sys_package display_value="Grievances Case Management" source="x_617936_grievan_0">f52478b547581310273a565a516d43b5</sys_package><sys_policy/><sys_scope display_value="Grievances Case Management">f52478b547581310273a565a516d43b5</sys_scope><sys_update_name>sys_ui_policy_action_b9ef340747e41390273a565a516d4347</sys_update_name><sys_updated_by>jenish.jain</sys_updated_by><sys_updated_on>2026-11-18 18:19:34</sys_updated_on><table/><ui_policy/><value/><value_action>ignore</value_action><visible>true</visible></sys_ui_policy_action><sys_translated_text action="delete_multiple" query="documentkey=b9ef340747e41390273a565a516d4347"/></record_update>]]></payload>
+        <payload_hash>-603844244</payload_hash>
+        <record_name>appointment</record_name>
+        <reverted_from/>
+        <source>8fcc8492472c5b50273a565a516d43be</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>jenish.jain</sys_created_by>
+        <sys_created_on>2026-11-18 18:19:34</sys_created_on>
+        <sys_id>70c0c18747e41390273a565a516d433a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a1efe2b5b00000001</sys_recorded_at>
+        <sys_updated_by>jenish.jain</sys_updated_by>
+        <sys_updated_on>2026-11-18 18:19:34</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>30c0c18770e4139081407e0b1bab2d39</update_guid>
+        <update_guid_history>30c0c18770e4139081407e0b1bab2d39:-603844244,31ef740713e41390850ef68ff3a94cfe:826182171</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jenish.jain</sys_created_by>
+        <sys_created_on>2026-11-18 18:41:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>3631890e89f44c2cb24623f1908cc644</sys_id>
+        <sys_metadata>b9ef340747e41390273a565a516d4347</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>appointment</sys_name>
+        <sys_package display_value="Grievances Case Management" source="x_617936_grievan_0">f52478b547581310273a565a516d43b5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Grievances Case Management">f52478b547581310273a565a516d43b5</sys_scope>
+        <sys_scope_delete display_value="">9ff0abe1f9524e00b9d2a3fcaf210000</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_b9ef340747e41390273a565a516d4347</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_b9ef340747e41390273a565a516d4347">70c0c18747e41390273a565a516d433a</sys_update_version>
+        <sys_updated_by>jenish.jain</sys_updated_by>
+        <sys_updated_on>2026-11-18 18:41:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

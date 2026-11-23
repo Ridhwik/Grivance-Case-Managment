@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_policy">
+    <sys_ui_policy action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <conditions table="x_617936_grievan_0_grievance_case">category=13^subcategoryIN131,132,133,134,135^ORcategory=10^subcategoryIN101,102,103,104,105^ORcategory=11^subcategoryIN111,112,113^ORcategory=12^subcategoryIN121,122,124,125^ORcategory=14^subcategoryIN145,146^EQ<item display_value="Facilities" endquery="false" field="category" goto="false" newquery="false" operator="=" or="false" value="13"/>
+            <item display_value="131,132,133,134,135" endquery="false" field="subcategory" goto="false" newquery="false" operator="IN" or="false" value="131,132,133,134,135"/>
+            <item display_value="Hygiene" endquery="false" field="category" goto="false" newquery="false" operator="=" or="true" value="10"/>
+            <item display_value="101,102,103,104,105" endquery="false" field="subcategory" goto="false" newquery="false" operator="IN" or="false" value="101,102,103,104,105"/>
+            <item display_value="Food" endquery="false" field="category" goto="false" newquery="false" operator="=" or="true" value="11"/>
+            <item display_value="111,112,113" endquery="false" field="subcategory" goto="false" newquery="false" operator="IN" or="false" value="111,112,113"/>
+            <item display_value="Staff Behavior" endquery="false" field="category" goto="false" newquery="false" operator="=" or="true" value="12"/>
+            <item display_value="121,122,124,125" endquery="false" field="subcategory" goto="false" newquery="false" operator="IN" or="false" value="121,122,124,125"/>
+            <item display_value="General" endquery="false" field="category" goto="false" newquery="false" operator="=" or="true" value="14"/>
+            <item display_value="145,146" endquery="false" field="subcategory" goto="false" newquery="false" operator="IN" or="false" value="145,146"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </conditions>
+        <description/>
+        <global>true</global>
+        <inherit>false</inherit>
+        <isolate_script>true</isolate_script>
+        <model_id/>
+        <model_table/>
+        <on_load>true</on_load>
+        <order>100</order>
+        <reverse_if_false>true</reverse_if_false>
+        <run_scripts>true</run_scripts>
+        <script_false><![CDATA[function onCondition() {
+    g_form.setDisplay('admission', false);
+    g_form.setValue('admission', '');
+}]]></script_false>
+        <script_true><![CDATA[function onCondition() {
+    g_form.setDisplay('admission', true);
+}]]></script_true>
+        <set_values/>
+        <short_description>Show Admission Reference</short_description>
+        <sys_class_name>sys_ui_policy</sys_class_name>
+        <sys_created_by>jenish.jain</sys_created_by>
+        <sys_created_on>2026-11-18 18:14:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b28f3c8347e41390273a565a516d435c</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Show Admission Reference</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Grievances Case Management" source="x_617936_grievan_0">f52478b547581310273a565a516d43b5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Grievances Case Management">f52478b547581310273a565a516d43b5</sys_scope>
+        <sys_update_name>sys_ui_policy_b28f3c8347e41390273a565a516d435c</sys_update_name>
+        <sys_updated_by>jenish.jain</sys_updated_by>
+        <sys_updated_on>2026-11-18 19:00:40</sys_updated_on>
+        <table>x_617936_grievan_0_grievance_case</table>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_ui_policy>
+</record_update>

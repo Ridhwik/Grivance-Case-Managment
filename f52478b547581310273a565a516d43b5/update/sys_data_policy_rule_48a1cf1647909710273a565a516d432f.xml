@@ -6,7 +6,7 @@
         <sys_class_name>sys_data_policy_rule</sys_class_name>
         <sys_created_by>jenish.jain</sys_created_by>
         <sys_created_on>2026-11-04 09:31:49</sys_created_on>
-        <sys_data_policy display_value="Mandatory: category">b771c71647909710273a565a516d43ee</sys_data_policy>
+        <sys_data_policy display_value="Mandatory: category and subcategory">b771c71647909710273a565a516d43ee</sys_data_policy>
         <sys_id>48a1cf1647909710273a565a516d432f</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>category</sys_name>

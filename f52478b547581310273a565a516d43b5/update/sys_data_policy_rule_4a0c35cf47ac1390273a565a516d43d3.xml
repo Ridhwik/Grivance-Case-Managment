@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>true</disabled>
+        <field>opened_at</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>jenish.jain</sys_created_by>
+        <sys_created_on>2026-11-18 22:38:30</sys_created_on>
+        <sys_data_policy display_value="Read-only state and opened_at after first save">61ab758f47ac1390273a565a516d43d4</sys_data_policy>
+        <sys_id>4a0c35cf47ac1390273a565a516d43d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>opened_at</sys_name>
+        <sys_package display_value="Grievances Case Management" source="x_617936_grievan_0">f52478b547581310273a565a516d43b5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Grievances Case Management">f52478b547581310273a565a516d43b5</sys_scope>
+        <sys_update_name>sys_data_policy_rule_4a0c35cf47ac1390273a565a516d43d3</sys_update_name>
+        <sys_updated_by>jenish.jain</sys_updated_by>
+        <sys_updated_on>2026-11-18 22:38:30</sys_updated_on>
+        <table>x_617936_grievan_0_grievance_case</table>
+    </sys_data_policy_rule>
+</record_update>

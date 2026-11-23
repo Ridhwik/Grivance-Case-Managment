@@ -308,6 +308,62 @@
             <sys_user/>
             <type/>
         </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>admission</element>
+            <position>22</position>
+            <sys_created_by>jenish.jain</sys_created_by>
+            <sys_created_on>2026-11-18 18:05:28</sys_created_on>
+            <sys_id>1a8d78cf47a41390273a565a516d43a4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="Default view">2605b0b947581310273a565a516d43f3</sys_ui_section>
+            <sys_updated_by>jenish.jain</sys_updated_by>
+            <sys_updated_on>2026-11-18 18:05:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>appointment</element>
+            <position>23</position>
+            <sys_created_by>jenish.jain</sys_created_by>
+            <sys_created_on>2026-11-18 18:06:57</sys_created_on>
+            <sys_id>c4ed740347e41390273a565a516d431d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="Default view">2605b0b947581310273a565a516d43f3</sys_ui_section>
+            <sys_updated_by>jenish.jain</sys_updated_by>
+            <sys_updated_on>2026-11-18 18:06:57</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>invoice</element>
+            <position>24</position>
+            <sys_created_by>jenish.jain</sys_created_by>
+            <sys_created_on>2026-11-18 18:07:25</sys_created_on>
+            <sys_id>befd380347e41390273a565a516d433a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="Default view">2605b0b947581310273a565a516d43f3</sys_ui_section>
+            <sys_updated_by>jenish.jain</sys_updated_by>
+            <sys_updated_on>2026-11-18 18:07:25</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>lab_test_result</element>
+            <position>25</position>
+            <sys_created_by>jenish.jain</sys_created_by>
+            <sys_created_on>2026-11-18 18:07:50</sys_created_on>
+            <sys_id>451ef80347e41390273a565a516d43ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="Default view">2605b0b947581310273a565a516d43f3</sys_ui_section>
+            <sys_updated_by>jenish.jain</sys_updated_by>
+            <sys_updated_on>2026-11-18 18:07:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
             <header>false</header>

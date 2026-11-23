@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script">
+    <sys_script action="INSERT_OR_UPDATE">
+        <abort_action>false</abort_action>
+        <access>package_private</access>
+        <action_delete>false</action_delete>
+        <action_insert>true</action_insert>
+        <action_query>false</action_query>
+        <action_update>true</action_update>
+        <active>true</active>
+        <add_message>false</add_message>
+        <advanced>true</advanced>
+        <change_fields>false</change_fields>
+        <client_callable>false</client_callable>
+        <collection>x_617936_grievan_0_grievance_case</collection>
+        <condition/>
+        <description/>
+        <execute_function>false</execute_function>
+        <filter_condition/>
+        <is_rest>false</is_rest>
+        <message/>
+        <name>Enforce Case Reference Validations</name>
+        <order>100</order>
+        <priority>100</priority>
+        <rest_method/>
+        <rest_method_text/>
+        <rest_service/>
+        <rest_service_text/>
+        <rest_variables/>
+        <role_conditions/>
+        <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
+    var subcat = current.getValue('subcategory');
+    if (!subcat) {
+        return;
+    }
+    subcat = String(subcat);
+
+    // 1. Mandatory Single Admission
+    // Facilities: AC (131), Plumbing (132), Electrical (133)
+    // Hygiene: Room cleaning (102), Linen (103)
+    // Food: Meal delivery (111), Incorrect diet (112)
+    // General: Clinical care (145)
+    var mandatoryAdmissionSubcats = ['131', '132', '133', '102', '103', '111', '112', '145'];
+    if (mandatoryAdmissionSubcats.indexOf(subcat) > -1) {
+        if (current.admission.nil()) {
+            gs.addErrorMessage('Validation Error: Admission reference is required for this grievance subcategory.');
+            current.setAbortAction(true);
+            return;
+        }
+    }
+
+    // 2. Either/Or: Doctor Communication (121), Lack of Empathy (125)
+    // Must have at least one: Admission OR Appointment
+    if (subcat === '121' || subcat === '125') {
+        if (current.admission.nil() && current.appointment.nil()) {
+            gs.addErrorMessage('Validation Error: At least one reference (Admission or Appointment) is required for this grievance subcategory.');
+            current.setAbortAction(true);
+            return;
+        }
+    }
+
+    // 3. Either/Or: Billing / Admin Misconduct (123)
+    // Must have at least one: Admission OR Invoice
+    if (subcat === '123') {
+        if (current.admission.nil() && current.invoice.nil()) {
+            gs.addErrorMessage('Validation Error: At least one reference (Admission or Invoice) is required for this grievance subcategory.');
+            current.setAbortAction(true);
+            return;
+        }
+    }
+
+    // 4. Mandatory Appointment: Appointment / Scheduling Issue (142)
+    if (subcat === '142') {
+        if (current.appointment.nil()) {
+            gs.addErrorMessage('Validation Error: Appointment reference is required for this grievance subcategory.');
+            current.setAbortAction(true);
+            return;
+        }
+    }
+
+    // 5. Mandatory Lab Test Result: Diagnostic Report Delay (143)
+    if (subcat === '143') {
+        if (current.lab_test_result.nil()) {
+            gs.addErrorMessage('Validation Error: Lab Test Result reference is required for this grievance subcategory.');
+            current.setAbortAction(true);
+            return;
+        }
+    }
+
+    // 6. Mandatory Invoice: Billing & Insurance / TPA Query (144)
+    if (subcat === '144') {
+        if (current.invoice.nil()) {
+            gs.addErrorMessage('Validation Error: Invoice reference is required for this grievance subcategory.');
+            current.setAbortAction(true);
+            return;
+        }
+    }
+})(current, previous);]]></script>
+        <sys_class_name>sys_script</sys_class_name>
+        <sys_created_by>jenish.jain</sys_created_by>
+        <sys_created_on>2026-11-18 19:28:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ff901dcf47281390273a565a516d43d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Enforce Case Reference Validations</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Grievances Case Management" source="x_617936_grievan_0">f52478b547581310273a565a516d43b5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Grievances Case Management">f52478b547581310273a565a516d43b5</sys_scope>
+        <sys_update_name>sys_script_ff901dcf47281390273a565a516d43d2</sys_update_name>
+        <sys_updated_by>jenish.jain</sys_updated_by>
+        <sys_updated_on>2026-11-18 19:28:51</sys_updated_on>
+        <template/>
+        <when>before</when>
+    </sys_script>
+    <sys_translated_text action="delete_multiple" query="documentkey=ff901dcf47281390273a565a516d43d2"/>
+</record_update>
