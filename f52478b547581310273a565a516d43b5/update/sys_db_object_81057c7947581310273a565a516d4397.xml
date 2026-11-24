@@ -20,7 +20,7 @@
         <provider_class/>
         <read_access>true</read_access>
         <scriptable_table>false</scriptable_table>
-        <super_class display_value="Case" name="sn_customerservice_case">ac204db447549310273a565a516d43ee</super_class>
+        <super_class display_value="Case" name="sn_customerservice_case">acfd8d9c53a0db10ed9b78f0a0490e6c</super_class>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>jenish.jain</sys_created_by>
         <sys_created_on>2026-11-02 10:00:08</sys_created_on>

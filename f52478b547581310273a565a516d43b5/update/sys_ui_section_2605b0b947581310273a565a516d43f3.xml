@@ -1,312 +1,354 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
     <sys_ui_section caption="" section_id="2605b0b947581310273a565a516d43f3" sys_domain="global" table="x_617936_grievan_0_grievance_case" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>number</element>
+            <element>sn_res_shaper_resolution_shaper.xml</element>
             <position>0</position>
-            <sys_created_by>jenish.jain</sys_created_by>
-            <sys_created_on>2026-11-05 10:32:38</sys_created_on>
-            <sys_id>de391cba47905b10273a565a516d435c</sys_id>
+            <sys_created_by>integration.user</sys_created_by>
+            <sys_created_on>2026-11-10 12:01:46</sys_created_on>
+            <sys_id>7c9dda5c53ac5f10ed9b78f0a0490ed2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="Default view">2605b0b947581310273a565a516d43f3</sys_ui_section>
-            <sys_updated_by>jenish.jain</sys_updated_by>
-            <sys_updated_on>2026-11-05 10:32:38</sys_updated_on>
+            <sys_updated_by>integration.user</sys_updated_by>
+            <sys_updated_on>2026-11-10 12:01:46</sys_updated_on>
             <sys_user/>
-            <type/>
+            <type>formatter</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>product</element>
+            <element>.begin_split</element>
             <position>1</position>
-            <sys_created_by>jenish.jain</sys_created_by>
-            <sys_created_on>2026-11-05 10:32:38</sys_created_on>
-            <sys_id>5e391cba47905b10273a565a516d435d</sys_id>
+            <sys_created_by>integration.user</sys_created_by>
+            <sys_created_on>2026-11-10 12:01:46</sys_created_on>
+            <sys_id>f09d1a5c53ac5f10ed9b78f0a0490e36</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="Default view">2605b0b947581310273a565a516d43f3</sys_ui_section>
-            <sys_updated_by>jenish.jain</sys_updated_by>
-            <sys_updated_on>2026-11-05 10:32:38</sys_updated_on>
+            <sys_updated_by>integration.user</sys_updated_by>
+            <sys_updated_on>2026-11-10 12:01:46</sys_updated_on>
             <sys_user/>
-            <type/>
+            <type>.begin_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>contact</element>
+            <element>number</element>
             <position>2</position>
-            <sys_created_by>jenish.jain</sys_created_by>
-            <sys_created_on>2026-11-05 10:32:38</sys_created_on>
-            <sys_id>da391cba47905b10273a565a516d435e</sys_id>
+            <sys_created_by>integration.user</sys_created_by>
+            <sys_created_on>2026-11-10 12:01:47</sys_created_on>
+            <sys_id>f89d1a5c53ac5f10ed9b78f0a0490e3b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="Default view">2605b0b947581310273a565a516d43f3</sys_ui_section>
-            <sys_updated_by>jenish.jain</sys_updated_by>
-            <sys_updated_on>2026-11-05 10:32:38</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>company</element>
-            <position>3</position>
-            <sys_created_by>jenish.jain</sys_created_by>
-            <sys_created_on>2026-11-05 10:32:38</sys_created_on>
-            <sys_id>5a391cba47905b10273a565a516d435f</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="Default view">2605b0b947581310273a565a516d43f3</sys_ui_section>
-            <sys_updated_by>jenish.jain</sys_updated_by>
-            <sys_updated_on>2026-11-05 10:32:38</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>asset</element>
-            <position>4</position>
-            <sys_created_by>jenish.jain</sys_created_by>
-            <sys_created_on>2026-11-05 10:32:38</sys_created_on>
-            <sys_id>d6391cba47905b10273a565a516d4360</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="Default view">2605b0b947581310273a565a516d43f3</sys_ui_section>
-            <sys_updated_by>jenish.jain</sys_updated_by>
-            <sys_updated_on>2026-11-05 10:32:38</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>contract</element>
-            <position>5</position>
-            <sys_created_by>jenish.jain</sys_created_by>
-            <sys_created_on>2026-11-05 10:32:38</sys_created_on>
-            <sys_id>56391cba47905b10273a565a516d4361</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="Default view">2605b0b947581310273a565a516d43f3</sys_ui_section>
-            <sys_updated_by>jenish.jain</sys_updated_by>
-            <sys_updated_on>2026-11-05 10:32:38</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>entitlement</element>
-            <position>6</position>
-            <sys_created_by>jenish.jain</sys_created_by>
-            <sys_created_on>2026-11-05 10:32:38</sys_created_on>
-            <sys_id>d2391cba47905b10273a565a516d4362</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="Default view">2605b0b947581310273a565a516d43f3</sys_ui_section>
-            <sys_updated_by>jenish.jain</sys_updated_by>
-            <sys_updated_on>2026-11-05 10:32:38</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.split</element>
-            <position>7</position>
-            <sys_created_by>jenish.jain</sys_created_by>
-            <sys_created_on>2026-11-05 10:32:38</sys_created_on>
-            <sys_id>52391cba47905b10273a565a516d4363</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="Default view">2605b0b947581310273a565a516d43f3</sys_ui_section>
-            <sys_updated_by>jenish.jain</sys_updated_by>
-            <sys_updated_on>2026-11-05 10:32:38</sys_updated_on>
-            <sys_user/>
-            <type>.split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>opened_at</element>
-            <position>8</position>
-            <sys_created_by>jenish.jain</sys_created_by>
-            <sys_created_on>2026-11-05 10:32:38</sys_created_on>
-            <sys_id>de391cba47905b10273a565a516d4363</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="Default view">2605b0b947581310273a565a516d43f3</sys_ui_section>
-            <sys_updated_by>jenish.jain</sys_updated_by>
-            <sys_updated_on>2026-11-05 10:32:38</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>opened_by</element>
-            <position>9</position>
-            <sys_created_by>jenish.jain</sys_created_by>
-            <sys_created_on>2026-11-05 10:32:38</sys_created_on>
-            <sys_id>5e391cba47905b10273a565a516d4364</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="Default view">2605b0b947581310273a565a516d43f3</sys_ui_section>
-            <sys_updated_by>jenish.jain</sys_updated_by>
-            <sys_updated_on>2026-11-05 10:32:38</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>sys_updated_on</element>
-            <position>10</position>
-            <sys_created_by>jenish.jain</sys_created_by>
-            <sys_created_on>2026-11-05 10:32:38</sys_created_on>
-            <sys_id>da391cba47905b10273a565a516d4365</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="Default view">2605b0b947581310273a565a516d43f3</sys_ui_section>
-            <sys_updated_by>jenish.jain</sys_updated_by>
-            <sys_updated_on>2026-11-05 10:32:38</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>sys_updated_by</element>
-            <position>11</position>
-            <sys_created_by>jenish.jain</sys_created_by>
-            <sys_created_on>2026-11-05 10:32:38</sys_created_on>
-            <sys_id>5a391cba47905b10273a565a516d4366</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="Default view">2605b0b947581310273a565a516d43f3</sys_ui_section>
-            <sys_updated_by>jenish.jain</sys_updated_by>
-            <sys_updated_on>2026-11-05 10:32:38</sys_updated_on>
+            <sys_updated_by>integration.user</sys_updated_by>
+            <sys_updated_on>2026-11-10 12:01:47</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>contact_type</element>
-            <position>12</position>
-            <sys_created_by>jenish.jain</sys_created_by>
-            <sys_created_on>2026-11-05 10:32:38</sys_created_on>
-            <sys_id>d6391cba47905b10273a565a516d4367</sys_id>
+            <position>3</position>
+            <sys_created_by>integration.user</sys_created_by>
+            <sys_created_on>2026-11-10 12:01:47</sys_created_on>
+            <sys_id>0d9d1e5c53ac5f10ed9b78f0a0490e17</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="Default view">2605b0b947581310273a565a516d43f3</sys_ui_section>
-            <sys_updated_by>jenish.jain</sys_updated_by>
-            <sys_updated_on>2026-11-05 10:32:38</sys_updated_on>
+            <sys_updated_by>integration.user</sys_updated_by>
+            <sys_updated_on>2026-11-10 12:01:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_patient</element>
+            <position>4</position>
+            <sys_created_by>integration.user</sys_created_by>
+            <sys_created_on>2026-11-10 12:01:47</sys_created_on>
+            <sys_id>059d1e5c53ac5f10ed9b78f0a0490e1d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="Default view">2605b0b947581310273a565a516d43f3</sys_ui_section>
+            <sys_updated_by>integration.user</sys_updated_by>
+            <sys_updated_on>2026-11-10 12:01:47</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_hospital</element>
+            <position>5</position>
+            <sys_created_by>integration.user</sys_created_by>
+            <sys_created_on>2026-11-10 12:01:48</sys_created_on>
+            <sys_id>4d9d1e5c53ac5f10ed9b78f0a0490e79</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="Default view">2605b0b947581310273a565a516d43f3</sys_ui_section>
+            <sys_updated_by>integration.user</sys_updated_by>
+            <sys_updated_on>2026-11-10 12:01:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>category</element>
+            <position>6</position>
+            <sys_created_by>integration.user</sys_created_by>
+            <sys_created_on>2026-11-10 12:01:48</sys_created_on>
+            <sys_id>559d1e5c53ac5f10ed9b78f0a0490e7f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="Default view">2605b0b947581310273a565a516d43f3</sys_ui_section>
+            <sys_updated_by>integration.user</sys_updated_by>
+            <sys_updated_on>2026-11-10 12:01:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>subcategory</element>
+            <position>7</position>
+            <sys_created_by>integration.user</sys_created_by>
+            <sys_created_on>2026-11-10 12:01:48</sys_created_on>
+            <sys_id>159d1e5c53ac5f10ed9b78f0a0490e91</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="Default view">2605b0b947581310273a565a516d43f3</sys_ui_section>
+            <sys_updated_by>integration.user</sys_updated_by>
+            <sys_updated_on>2026-11-10 12:01:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>location</element>
+            <position>8</position>
+            <sys_created_by>integration.user</sys_created_by>
+            <sys_created_on>2026-11-10 12:01:49</sys_created_on>
+            <sys_id>1d9d1e5c53ac5f10ed9b78f0a0490e96</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="Default view">2605b0b947581310273a565a516d43f3</sys_ui_section>
+            <sys_updated_by>integration.user</sys_updated_by>
+            <sys_updated_on>2026-11-10 12:01:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>related_record</element>
+            <position>9</position>
+            <sys_created_by>integration.user</sys_created_by>
+            <sys_created_on>2026-11-10 12:01:49</sys_created_on>
+            <sys_id>e99d1e5c53ac5f10ed9b78f0a0490ea8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="Default view">2605b0b947581310273a565a516d43f3</sys_ui_section>
+            <sys_updated_by>integration.user</sys_updated_by>
+            <sys_updated_on>2026-11-10 12:01:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>escalated</element>
+            <position>10</position>
+            <sys_created_by>integration.user</sys_created_by>
+            <sys_created_on>2026-11-10 12:01:50</sys_created_on>
+            <sys_id>e19d1e5c53ac5f10ed9b78f0a0490eae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="Default view">2605b0b947581310273a565a516d43f3</sys_ui_section>
+            <sys_updated_by>integration.user</sys_updated_by>
+            <sys_updated_on>2026-11-10 12:01:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>11</position>
+            <sys_created_by>integration.user</sys_created_by>
+            <sys_created_on>2026-11-10 12:01:50</sys_created_on>
+            <sys_id>f99d1e5c53ac5f10ed9b78f0a0490eb3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="Default view">2605b0b947581310273a565a516d43f3</sys_ui_section>
+            <sys_updated_by>integration.user</sys_updated_by>
+            <sys_updated_on>2026-11-10 12:01:50</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>opened_at</element>
+            <position>12</position>
+            <sys_created_by>integration.user</sys_created_by>
+            <sys_created_on>2026-11-10 12:01:50</sys_created_on>
+            <sys_id>fd9d1e5c53ac5f10ed9b78f0a0490eea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="Default view">2605b0b947581310273a565a516d43f3</sys_ui_section>
+            <sys_updated_by>integration.user</sys_updated_by>
+            <sys_updated_on>2026-11-10 12:01:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>priority</element>
             <position>13</position>
-            <sys_created_by>jenish.jain</sys_created_by>
-            <sys_created_on>2026-11-05 10:32:38</sys_created_on>
-            <sys_id>56391cba47905b10273a565a516d4368</sys_id>
+            <sys_created_by>integration.user</sys_created_by>
+            <sys_created_on>2026-11-10 12:01:51</sys_created_on>
+            <sys_id>f59d1e5c53ac5f10ed9b78f0a0490ef0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="Default view">2605b0b947581310273a565a516d43f3</sys_ui_section>
-            <sys_updated_by>jenish.jain</sys_updated_by>
-            <sys_updated_on>2026-11-05 10:32:38</sys_updated_on>
+            <sys_updated_by>integration.user</sys_updated_by>
+            <sys_updated_on>2026-11-10 12:01:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_raised_by</element>
+            <position>14</position>
+            <sys_created_by>integration.user</sys_created_by>
+            <sys_created_on>2026-11-10 12:01:51</sys_created_on>
+            <sys_id>829d5e5c53ac5f10ed9b78f0a0490e34</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="Default view">2605b0b947581310273a565a516d43f3</sys_ui_section>
+            <sys_updated_by>integration.user</sys_updated_by>
+            <sys_updated_on>2026-11-10 12:01:51</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>assignment_group</element>
-            <position>14</position>
-            <sys_created_by>jenish.jain</sys_created_by>
-            <sys_created_on>2026-11-05 10:32:38</sys_created_on>
-            <sys_id>d2391cba47905b10273a565a516d4369</sys_id>
+            <position>15</position>
+            <sys_created_by>integration.user</sys_created_by>
+            <sys_created_on>2026-11-10 12:01:51</sys_created_on>
+            <sys_id>8a9d5e5c53ac5f10ed9b78f0a0490e39</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="Default view">2605b0b947581310273a565a516d43f3</sys_ui_section>
-            <sys_updated_by>jenish.jain</sys_updated_by>
-            <sys_updated_on>2026-11-05 10:32:38</sys_updated_on>
+            <sys_updated_by>integration.user</sys_updated_by>
+            <sys_updated_on>2026-11-10 12:01:51</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>assigned_to</element>
-            <position>15</position>
-            <sys_created_by>jenish.jain</sys_created_by>
-            <sys_created_on>2026-11-05 10:32:38</sys_created_on>
-            <sys_id>52391cba47905b10273a565a516d436a</sys_id>
+            <position>16</position>
+            <sys_created_by>integration.user</sys_created_by>
+            <sys_created_on>2026-11-10 12:01:52</sys_created_on>
+            <sys_id>829d5e5c53ac5f10ed9b78f0a0490e3f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="Default view">2605b0b947581310273a565a516d43f3</sys_ui_section>
-            <sys_updated_by>jenish.jain</sys_updated_by>
-            <sys_updated_on>2026-11-05 10:32:38</sys_updated_on>
+            <sys_updated_by>integration.user</sys_updated_by>
+            <sys_updated_on>2026-11-10 12:01:52</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>parent</element>
-            <position>16</position>
-            <sys_created_by>jenish.jain</sys_created_by>
-            <sys_created_on>2026-11-05 10:32:38</sys_created_on>
-            <sys_id>de391cba47905b10273a565a516d436a</sys_id>
+            <element>state</element>
+            <position>17</position>
+            <sys_created_by>integration.user</sys_created_by>
+            <sys_created_on>2026-11-10 12:01:52</sys_created_on>
+            <sys_id>9a9d5e5c53ac5f10ed9b78f0a0490e44</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="Default view">2605b0b947581310273a565a516d43f3</sys_ui_section>
-            <sys_updated_by>jenish.jain</sys_updated_by>
-            <sys_updated_on>2026-11-05 10:32:38</sys_updated_on>
+            <sys_updated_by>integration.user</sys_updated_by>
+            <sys_updated_on>2026-11-10 12:01:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_attachments</element>
+            <position>18</position>
+            <sys_created_by>integration.user</sys_created_by>
+            <sys_created_on>2026-11-10 12:01:53</sys_created_on>
+            <sys_id>929d5e5c53ac5f10ed9b78f0a0490e4a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="Default view">2605b0b947581310273a565a516d43f3</sys_ui_section>
+            <sys_updated_by>integration.user</sys_updated_by>
+            <sys_updated_on>2026-11-10 12:01:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.end_split</element>
-            <position>17</position>
-            <sys_created_by>jenish.jain</sys_created_by>
-            <sys_created_on>2026-11-05 10:32:38</sys_created_on>
-            <sys_id>5e391cba47905b10273a565a516d436b</sys_id>
+            <position>19</position>
+            <sys_created_by>integration.user</sys_created_by>
+            <sys_created_on>2026-11-10 12:01:53</sys_created_on>
+            <sys_id>a69d5e5c53ac5f10ed9b78f0a0490ebd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="Default view">2605b0b947581310273a565a516d43f3</sys_ui_section>
-            <sys_updated_by>jenish.jain</sys_updated_by>
-            <sys_updated_on>2026-11-05 10:32:38</sys_updated_on>
+            <sys_updated_by>integration.user</sys_updated_by>
+            <sys_updated_on>2026-11-10 12:01:53</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>short_description</element>
-            <position>18</position>
-            <sys_created_by>jenish.jain</sys_created_by>
-            <sys_created_on>2026-11-05 10:32:38</sys_created_on>
-            <sys_id>da391cba47905b10273a565a516d436c</sys_id>
+            <position>20</position>
+            <sys_created_by>integration.user</sys_created_by>
+            <sys_created_on>2026-11-10 12:01:53</sys_created_on>
+            <sys_id>ae9d5e5c53ac5f10ed9b78f0a0490ec2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="Default view">2605b0b947581310273a565a516d43f3</sys_ui_section>
-            <sys_updated_by>jenish.jain</sys_updated_by>
-            <sys_updated_on>2026-11-05 10:32:38</sys_updated_on>
+            <sys_updated_by>integration.user</sys_updated_by>
+            <sys_updated_on>2026-11-10 12:01:53</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>description</element>
-            <position>19</position>
-            <sys_created_by>jenish.jain</sys_created_by>
-            <sys_created_on>2026-11-05 10:32:38</sys_created_on>
-            <sys_id>5a391cba47905b10273a565a516d436d</sys_id>
+            <position>21</position>
+            <sys_created_by>integration.user</sys_created_by>
+            <sys_created_on>2026-11-10 12:01:54</sys_created_on>
+            <sys_id>2e9d9e5c53ac5f10ed9b78f0a0490e44</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="Default view">2605b0b947581310273a565a516d43f3</sys_ui_section>
-            <sys_updated_by>jenish.jain</sys_updated_by>
-            <sys_updated_on>2026-11-05 10:32:38</sys_updated_on>
+            <sys_updated_by>integration.user</sys_updated_by>
+            <sys_updated_on>2026-11-10 12:01:54</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>cxs_table_search.xml</element>
-            <position>20</position>
-            <sys_created_by>jenish.jain</sys_created_by>
-            <sys_created_on>2026-11-05 10:32:38</sys_created_on>
-            <sys_id>d6391cba47905b10273a565a516d436e</sys_id>
+            <position>22</position>
+            <sys_created_by>integration.user</sys_created_by>
+            <sys_created_on>2026-11-10 12:01:54</sys_created_on>
+            <sys_id>369d9e5c53ac5f10ed9b78f0a0490e4a</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter display_value="Contextual Search Results">11eb1622eb1121003623666cd206fe56</sys_ui_formatter>
+            <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="Default view">2605b0b947581310273a565a516d43f3</sys_ui_section>
-            <sys_updated_by>jenish.jain</sys_updated_by>
-            <sys_updated_on>2026-11-05 10:32:38</sys_updated_on>
+            <sys_updated_by>integration.user</sys_updated_by>
+            <sys_updated_on>2026-11-10 12:01:54</sys_updated_on>
             <sys_user/>
             <type>formatter</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>follow_the_sun</element>
-            <position>21</position>
-            <sys_created_by>jenish.jain</sys_created_by>
-            <sys_created_on>2026-11-05 10:32:38</sys_created_on>
-            <sys_id>d6391cba47905b10273a565a516d436f</sys_id>
+            <element>REL.sn_customerservice_case.REL:bb260316c301120095ccd02422d3aed9</element>
+            <position>23</position>
+            <sys_created_by>integration.user</sys_created_by>
+            <sys_created_on>2026-11-10 12:01:54</sys_created_on>
+            <sys_id>369d9e5c53ac5f10ed9b78f0a0490eb3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="Default view">2605b0b947581310273a565a516d43f3</sys_ui_section>
-            <sys_updated_by>jenish.jain</sys_updated_by>
-            <sys_updated_on>2026-11-05 10:32:38</sys_updated_on>
+            <sys_updated_by>integration.user</sys_updated_by>
+            <sys_updated_on>2026-11-10 12:01:54</sys_updated_on>
             <sys_user/>
-            <type/>
+            <type>list</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>special_handling_notes</element>
+            <position>24</position>
+            <sys_created_by>integration.user</sys_created_by>
+            <sys_created_on>2026-11-10 12:01:55</sys_created_on>
+            <sys_id>3e9d9e5c53ac5f10ed9b78f0a0490eb8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="Default view">2605b0b947581310273a565a516d43f3</sys_ui_section>
+            <sys_updated_by>integration.user</sys_updated_by>
+            <sys_updated_on>2026-11-10 12:01:55</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>

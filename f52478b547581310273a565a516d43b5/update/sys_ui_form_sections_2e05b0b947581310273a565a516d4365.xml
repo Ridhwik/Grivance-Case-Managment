@@ -14,6 +14,76 @@
             <sys_updated_by>jenish.jain</sys_updated_by>
             <sys_updated_on>2026-11-05 10:32:26</sys_updated_on>
         </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>ridhwik.jangid</sys_created_by>
+            <sys_created_on>2026-11-10 10:08:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f1b3029453685f10ed9b78f0a0490e19</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_617936_grievan_0_grievance_case" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="Default view">2e05b0b947581310273a565a516d4365</sys_ui_form>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="14ba2c7d47d41310273a565a516d439c">020530b947581310273a565a516d438d</sys_ui_section>
+            <sys_updated_by>ridhwik.jangid</sys_updated_by>
+            <sys_updated_on>2026-11-10 10:08:47</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>ridhwik.jangid</sys_created_by>
+            <sys_created_on>2026-11-10 10:08:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b5b3029453685f10ed9b78f0a0490e1a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_617936_grievan_0_grievance_case" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="Default view">2e05b0b947581310273a565a516d4365</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="4f334ad053685f10ed9b78f0a0490e87">0e0530b947581310273a565a516d4396</sys_ui_section>
+            <sys_updated_by>ridhwik.jangid</sys_updated_by>
+            <sys_updated_on>2026-11-10 10:08:47</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>ridhwik.jangid</sys_created_by>
+            <sys_created_on>2026-11-10 10:08:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7db3029453685f10ed9b78f0a0490e2b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_617936_grievan_0_grievance_case" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="Default view">2e05b0b947581310273a565a516d4365</sys_ui_form>
+            <sys_ui_section caption="Related Records" display_value="Related Records" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="Default view">2605b0b947581310273a565a516d43b5</sys_ui_section>
+            <sys_updated_by>ridhwik.jangid</sys_updated_by>
+            <sys_updated_on>2026-11-10 10:08:47</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>ridhwik.jangid</sys_created_by>
+            <sys_created_on>2026-11-10 10:08:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>75b3029453685f10ed9b78f0a0490e45</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_617936_grievan_0_grievance_case" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="Default view">2e05b0b947581310273a565a516d4365</sys_ui_form>
+            <sys_ui_section caption="Notes" display_value="Notes" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="Default view">2e05b0b947581310273a565a516d4382</sys_ui_section>
+            <sys_updated_by>ridhwik.jangid</sys_updated_by>
+            <sys_updated_on>2026-11-10 10:08:47</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>ridhwik.jangid</sys_created_by>
+            <sys_created_on>2026-11-10 10:08:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0ab3429453685f10ed9b78f0a0490e23</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_617936_grievan_0_grievance_case" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="Default view">2e05b0b947581310273a565a516d4365</sys_ui_form>
+            <sys_ui_section caption="Closure Information" display_value="Closure Information" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="Default view">ee05b0b947581310273a565a516d4369</sys_ui_section>
+            <sys_updated_by>ridhwik.jangid</sys_updated_by>
+            <sys_updated_on>2026-11-10 10:08:48</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_617936_grievan_0_grievance_case</name>
             <roles/>

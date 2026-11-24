@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="awa_inbox_layout">
+    <awa_inbox_layout action="DELETE">
+        <card_layout><![CDATA[<img src="awa_card_layout_guide.png" width="349" height="300" />]]></card_layout>
+        <condition/>
+        <field_1>number</field_1>
+        <field_2/>
+        <field_3/>
+        <field_4/>
+        <field_5/>
+        <is_default>true</is_default>
+        <name>Default Service Request Cases layout</name>
+        <order>1000000</order>
+        <service_channel display_value="Service Request Cases">9ca8ce2847f09310273a565a516d43ad</service_channel>
+        <short_description>Default inbox layout for the Service Request Cases Service Channel</short_description>
+        <sys_class_name>awa_inbox_layout</sys_class_name>
+        <sys_created_by>jenish.jain</sys_created_by>
+        <sys_created_on>2026-11-23 15:24:26</sys_created_on>
+        <sys_id>58a8ce2847f09310273a565a516d43ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Default Service Request Cases layout</sys_name>
+        <sys_package display_value="Grievances Case Management" source="x_617936_grievan_0">f52478b547581310273a565a516d43b5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Grievances Case Management">f52478b547581310273a565a516d43b5</sys_scope>
+        <sys_update_name>awa_inbox_layout_58a8ce2847f09310273a565a516d43ae</sys_update_name>
+        <sys_updated_by>jenish.jain</sys_updated_by>
+        <sys_updated_on>2026-11-23 15:24:26</sys_updated_on>
+        <title_field/>
+    </awa_inbox_layout>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Grievances Case Management">f52478b547581310273a565a516d43b5</application>
+        <file_path/>
+        <instance_id>5ada7edb93d06e50d9f6ddd548373c9d</instance_id>
+        <instance_name>dev304851</instance_name>
+        <name>awa_inbox_layout_58a8ce2847f09310273a565a516d43ae</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="awa_inbox_layout"&gt;&lt;awa_inbox_layout action="INSERT_OR_UPDATE"&gt;&lt;card_layout&gt;&lt;![CDATA[&lt;img src="awa_card_layout_guide.png" width="349" height="300" /&gt;]]&gt;&lt;/card_layout&gt;&lt;condition/&gt;&lt;field_1&gt;number&lt;/field_1&gt;&lt;field_2/&gt;&lt;field_3/&gt;&lt;field_4/&gt;&lt;field_5/&gt;&lt;is_default&gt;true&lt;/is_default&gt;&lt;name&gt;Default Service Request Cases layout&lt;/name&gt;&lt;order&gt;1000000&lt;/order&gt;&lt;service_channel display_value="Service Request Cases"&gt;9ca8ce2847f09310273a565a516d43ad&lt;/service_channel&gt;&lt;short_description&gt;Default inbox layout for the Service Request Cases Service Channel&lt;/short_description&gt;&lt;sys_class_name&gt;awa_inbox_layout&lt;/sys_class_name&gt;&lt;sys_created_by&gt;jenish.jain&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2026-11-23 15:24:26&lt;/sys_created_on&gt;&lt;sys_id&gt;58a8ce2847f09310273a565a516d43ae&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Default Service Request Cases layout&lt;/sys_name&gt;&lt;sys_package display_value="Grievances Case Management" source="x_617936_grievan_0"&gt;f52478b547581310273a565a516d43b5&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Grievances Case Management"&gt;f52478b547581310273a565a516d43b5&lt;/sys_scope&gt;&lt;sys_update_name&gt;awa_inbox_layout_58a8ce2847f09310273a565a516d43ae&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;jenish.jain&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2026-11-23 15:24:26&lt;/sys_updated_on&gt;&lt;title_field/&gt;&lt;/awa_inbox_layout&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1952246599</payload_hash>
+        <record_name>Default Service Request Cases layout</record_name>
+        <reverted_from/>
+        <source>8fcc8492472c5b50273a565a516d43be</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>jenish.jain</sys_created_by>
+        <sys_created_on>2026-11-23 15:24:26</sys_created_on>
+        <sys_id>14a8ce2847f09310273a565a516d43b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a2090229a60000001</sys_recorded_at>
+        <sys_updated_by>jenish.jain</sys_updated_by>
+        <sys_updated_on>2026-11-23 15:24:26</sys_updated_on>
+        <type>Inbox Layout</type>
+        <update_guid>d0a8ce2868f09310fd38cdcc11ec2db6</update_guid>
+        <update_guid_history>d0a8ce2868f09310fd38cdcc11ec2db6:1952246599</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">07e80a6847f09310273a565a516d43fd</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>jenish.jain</sys_created_by>
+        <sys_created_on>2026-11-23 15:25:43</sys_created_on>
+        <sys_db_object display_value="" name="awa_inbox_layout">awa_inbox_layout</sys_db_object>
+        <sys_id>26b04669365c4ec39dcce1d9a0794f91</sys_id>
+        <sys_metadata>58a8ce2847f09310273a565a516d43ae</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Default Service Request Cases layout</sys_name>
+        <sys_package display_value="Grievances Case Management" source="x_617936_grievan_0">f52478b547581310273a565a516d43b5</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Grievances Case Management">f52478b547581310273a565a516d43b5</sys_scope>
+        <sys_scope_delete display_value="">9ff0abe1f9524e00b9d2a3fcaf210000</sys_scope_delete>
+        <sys_update_name>awa_inbox_layout_58a8ce2847f09310273a565a516d43ae</sys_update_name>
+        <sys_update_version display_value="awa_inbox_layout_58a8ce2847f09310273a565a516d43ae">14a8ce2847f09310273a565a516d43b7</sys_update_version>
+        <sys_updated_by>jenish.jain</sys_updated_by>
+        <sys_updated_on>2026-11-23 15:25:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

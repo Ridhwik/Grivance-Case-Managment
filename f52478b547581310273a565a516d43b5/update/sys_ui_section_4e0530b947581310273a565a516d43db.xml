@@ -8,7 +8,7 @@
             <sys_id>420530b947581310273a565a516d43ec</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Major Case Information" display_value="Major Case Information" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="ca6da749f0b3031001ffe61a9d6c48a4">4e0530b947581310273a565a516d43db</sys_ui_section>
+            <sys_ui_section caption="Major Case Information" display_value="Major Case Information" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="37f1ba3b8c9103100a22deb6dd2b4eef">4e0530b947581310273a565a516d43db</sys_ui_section>
             <sys_updated_by>jenish.jain</sys_updated_by>
             <sys_updated_on>2026-11-02 10:00:12</sys_updated_on>
             <sys_user/>
@@ -22,7 +22,7 @@
             <sys_id>020530b947581310273a565a516d43ea</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Major Case Information" display_value="Major Case Information" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="ca6da749f0b3031001ffe61a9d6c48a4">4e0530b947581310273a565a516d43db</sys_ui_section>
+            <sys_ui_section caption="Major Case Information" display_value="Major Case Information" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="37f1ba3b8c9103100a22deb6dd2b4eef">4e0530b947581310273a565a516d43db</sys_ui_section>
             <sys_updated_by>jenish.jain</sys_updated_by>
             <sys_updated_on>2026-11-02 10:00:12</sys_updated_on>
             <sys_user/>
@@ -36,7 +36,7 @@
             <sys_id>0e0530b947581310273a565a516d43ec</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Major Case Information" display_value="Major Case Information" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="ca6da749f0b3031001ffe61a9d6c48a4">4e0530b947581310273a565a516d43db</sys_ui_section>
+            <sys_ui_section caption="Major Case Information" display_value="Major Case Information" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="37f1ba3b8c9103100a22deb6dd2b4eef">4e0530b947581310273a565a516d43db</sys_ui_section>
             <sys_updated_by>jenish.jain</sys_updated_by>
             <sys_updated_on>2026-11-02 10:00:12</sys_updated_on>
             <sys_user/>
@@ -50,7 +50,7 @@
             <sys_id>ca0530b947581310273a565a516d43ea</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Major Case Information" display_value="Major Case Information" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="ca6da749f0b3031001ffe61a9d6c48a4">4e0530b947581310273a565a516d43db</sys_ui_section>
+            <sys_ui_section caption="Major Case Information" display_value="Major Case Information" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="37f1ba3b8c9103100a22deb6dd2b4eef">4e0530b947581310273a565a516d43db</sys_ui_section>
             <sys_updated_by>jenish.jain</sys_updated_by>
             <sys_updated_on>2026-11-02 10:00:12</sys_updated_on>
             <sys_user/>
@@ -64,7 +64,7 @@
             <sys_id>c60530b947581310273a565a516d43ed</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Major Case Information" display_value="Major Case Information" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="ca6da749f0b3031001ffe61a9d6c48a4">4e0530b947581310273a565a516d43db</sys_ui_section>
+            <sys_ui_section caption="Major Case Information" display_value="Major Case Information" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="37f1ba3b8c9103100a22deb6dd2b4eef">4e0530b947581310273a565a516d43db</sys_ui_section>
             <sys_updated_by>jenish.jain</sys_updated_by>
             <sys_updated_on>2026-11-02 10:00:12</sys_updated_on>
             <sys_user/>
@@ -78,7 +78,7 @@
             <sys_id>860530b947581310273a565a516d43eb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="Major Case Information" display_value="Major Case Information" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="ca6da749f0b3031001ffe61a9d6c48a4">4e0530b947581310273a565a516d43db</sys_ui_section>
+            <sys_ui_section caption="Major Case Information" display_value="Major Case Information" name="x_617936_grievan_0_grievance_case" sys_domain="global" view="37f1ba3b8c9103100a22deb6dd2b4eef">4e0530b947581310273a565a516d43db</sys_ui_section>
             <sys_updated_by>jenish.jain</sys_updated_by>
             <sys_updated_on>2026-11-02 10:00:12</sys_updated_on>
             <sys_user/>
@@ -106,7 +106,7 @@
             <sys_updated_on>2026-11-02 10:00:12</sys_updated_on>
             <sys_user/>
             <title>false</title>
-            <view display_value="Workspace" name="workspace">ca6da749f0b3031001ffe61a9d6c48a4</view>
+            <view display_value="Workspace" name="workspace">37f1ba3b8c9103100a22deb6dd2b4eef</view>
             <view_name/>
         </sys_ui_section>
     </sys_ui_section>
